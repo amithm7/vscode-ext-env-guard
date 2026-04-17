@@ -21,5 +21,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Adds a command `Env Gate: Reset Session` to clear remembered `.env` files, which bypass the gate.
 
 [unreleased]: https://github.com/amithm7/vscode-ext-env-gate/compare/v1.0.1...HEAD
-[1.0.0]: https://github.com/amithm7/vscode-ext-env-gate/releases/tag/v1.0.1
+[1.0.1]: https://github.com/amithm7/vscode-ext-env-gate/releases/tag/v1.0.1
 [1.0.0]: https://github.com/amithm7/vscode-ext-env-gate/releases/tag/v1.0.0
