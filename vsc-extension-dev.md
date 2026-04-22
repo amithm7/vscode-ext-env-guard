@@ -16,3 +16,9 @@
 * Make changes to `src/test/extension.test.ts` or create new test files inside the `test` folder.
   * The provided test runner will only consider files matching the name pattern `**.test.ts`.
   * You can create folders inside the `test` folder to structure your tests any way you want.
+
+## Package
+
+```sh
+pnpx @vscode/vsce package
+```
