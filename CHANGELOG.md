@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.2] - 2026-04-22
+
+### Added
+
+- Support for older VS Code versions from from `1.80.0`.
+
 ## [1.0.1] - 2026-04-17
 
 ### Changed
@@ -20,6 +26,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - A custom editor is used to gate when user attempts to open a `.env` file, excluding examples.
 - Adds a command `Env Gate: Reset Session` to clear remembered `.env` files, which bypass the gate.
 
-[unreleased]: https://github.com/amithm7/vscode-ext-env-gate/compare/v1.0.1...HEAD
+[unreleased]: https://github.com/amithm7/vscode-ext-env-gate/compare/v1.0.2...HEAD
+[1.0.2]: https://github.com/amithm7/vscode-ext-env-gate/releases/tag/v1.0.2
 [1.0.1]: https://github.com/amithm7/vscode-ext-env-gate/releases/tag/v1.0.1
 [1.0.0]: https://github.com/amithm7/vscode-ext-env-gate/releases/tag/v1.0.0

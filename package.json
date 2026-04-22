@@ -4,9 +4,9 @@
   "description": "Warns when opening .env files, which may contain secrets.",
   "publisher": "amithm7",
   "repository": "https://github.com/amithm7/vscode-ext-env-gate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
-    "vscode": "^1.115.0"
+    "vscode": "^1.80.0"
   },
   "categories": [
     "Other"
@@ -48,7 +48,7 @@
     "test": "vscode-test"
   },
   "devDependencies": {
-    "@types/vscode": "^1.115.0",
+    "@types/vscode": "^1.80.0",
     "@types/mocha": "^10.0.10",
     "@types/node": "22.x",
     "typescript-eslint": "^8.56.1",
