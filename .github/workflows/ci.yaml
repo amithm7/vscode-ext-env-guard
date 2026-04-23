@@ -19,7 +19,7 @@ jobs:
           cache: true
 
       - name: Install deps
-        run: pnpm ci
+        run: pnpm ci || pnpm install --frozen-lockfile
 
       - name: Package
         run: |
